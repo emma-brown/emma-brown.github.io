@@ -108,3 +108,17 @@ a:hover {
 .page__footer {
   background: var(--teal);
 }
+
+/* Hide heading permalink icons */
+.header-link {
+  display: none !important;
+}
+
+/* Widen the main content area */
+.page {
+  max-width: 1400px;
+}
+
+.page__content {
+  max-width: 950px;
+}
