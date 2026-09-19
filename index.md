@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-# ABOUT
+
 ### I am a PhD Candidate at Arizona State University studying the geochemistry of Earth and other planetary bodies. In my free time, you can find me trail running, camping, or reading. 
 
 ## RESEARCH INTERESTS
