@@ -23,6 +23,7 @@
 
   --background: #FAFAF7;
   --text: #F2EEFF;
+  --headers: #222222;
 
 }
 
@@ -58,7 +59,7 @@ body {
 /* Headings */
 
 h1, h2, h3, h4 {
-  color: var(--teal);
+  color: var(--headers);
 }
 
 /* Links */
@@ -74,14 +75,16 @@ a:hover {
 /* Sidebar */
 
 .sidebar {
-  background: white;
+    background: #E6E0FF;
+    border-radius: 24px;
+    padding: 1.5rem;
 }
 
 .author__avatar img {
-  border-radius: 20px;
-  border: 4px solid var(--lavender);
+    border-radius: 24px;
+    border: 5px solid #D6C9F2;
+    margin-bottom: 1rem;
 }
-
 /* Buttons */
 
 .btn {
@@ -98,7 +101,7 @@ a:hover {
 .notice,
 .archive__item {
   background: var(--lavender);
-  border-radius: 16px;
+  border-radius: 24px;
   border: none;
   box-shadow: 0 6px 18px rgba(0,0,0,.08);
 }
@@ -127,9 +130,7 @@ a:hover {
 .author__urls-wrapper,
 .author__urls {
 
-    background: #ECE8FF;
-    border-radius: 20px;
-    padding: 1.2em;
+    background: transparent;
 }
 
 /* Research cards */
@@ -137,9 +138,10 @@ a:hover {
 .research-card {
     background: #DDD2F5;
     border-left: 8px solid #0D5D58;
-    border-radius: 16px;
+    border-radius: 24px;
     padding: 1.5rem;
     margin: 2rem 0;
+    color: #222222;
     box-shadow: 0 6px 20px rgba(0,0,0,.08);
 }
 
