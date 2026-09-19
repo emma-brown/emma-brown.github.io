@@ -278,3 +278,56 @@ a:hover {
     max-width: none;
     width: 100%;
 }
+/* ===========================
+   Research Subcard
+   =========================== */
+
+.research-subcard {
+
+    background: #6B2E3D;   /* Merlot */
+
+    color: #F8F5EE;
+
+    border-radius: 18px;
+
+    padding: 1.5rem;
+
+    margin-top: 2rem;
+
+    box-shadow: 0 6px 18px rgba(0,0,0,.12);
+
+}
+
+.research-subcard h3 {
+
+    color: #F8F5EE;
+
+    margin-top: 0;
+
+    margin-bottom: .8rem;
+
+    font-size: 1.25rem;
+
+}
+
+.research-subcard p,
+.research-subcard li {
+
+    color: #F8F5EE;
+
+    line-height: 1.7;
+
+}
+
+.research-subcard a {
+
+    color: #F4D7A1;
+    text-decoration: none;
+
+}
+
+.research-subcard a:hover {
+
+    color: white;
+
+}
