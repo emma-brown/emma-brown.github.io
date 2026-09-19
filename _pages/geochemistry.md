@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-# *Under construction*
+### *Under construction*
 
 <div class="research-card">
 
@@ -30,6 +30,15 @@ classes: wide
     </div>
 
 </div>
+
+<div class="research-subcard">
+
+            <h3>Related Publications & Presentations</h3>
+            
+                <li>
+                Brown, E., et al. (In Preparation).
+                </li>
+     </div>
 
 <div class="research-card">
 
