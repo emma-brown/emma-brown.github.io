@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: 
+    url: /about/
   - title: "Geochemistry"
     url: /geochemistry/
   - title: "Geomicrobiology"
