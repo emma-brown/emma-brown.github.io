@@ -78,7 +78,7 @@ a:hover {
     background: #E6E0FF;
 
     width: 360px;
-
+    height: fit-content;
     margin-left: -140px;
     padding-left: 100px;
     margin-top: 4rem;
@@ -106,6 +106,7 @@ a:hover {
     display: block;
     margin: 0 auto 1.5rem auto;
     margin-left: 10;
+    margin-top: -70px;
 }
 /* Buttons */
 
