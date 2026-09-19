@@ -22,7 +22,7 @@
   --coral: #D34A32;
 
   --background: #FAFAF7;
-  --text: #F2EEFF;
+  --text: #F5F2E8;
   --headers: #181818;
 
 }
@@ -93,9 +93,9 @@ a:hover {
     color: #181818;
 }
 .author__avatar {
-    text-align: center;
     margin-top: 0;
     margin-bottom: 1rem;
+    margin-left: -10px;
 }
 
 /* Circular avatar */
