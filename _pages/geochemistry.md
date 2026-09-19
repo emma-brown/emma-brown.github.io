@@ -8,6 +8,12 @@ classes: wide
 # *Under construction* 
 
 <div class="research-card">
+  
+    <div class="research-text">
+
+        <h2>Hydrothermal Decomposition of Model Organic Acids</h2>
+
+        <p>
 <h2>Hydrothermal Decomposition of Model Organic Acids</h2>
 
 <p>
