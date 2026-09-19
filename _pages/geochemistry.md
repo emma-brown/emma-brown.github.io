@@ -8,7 +8,7 @@ author_profile: true
 
 ## Hydrothermal decomposition of model organic acids in salty solutions
 
-This project is part of a broader effort to understand how organic molecules behave in water. I investigate the decomposition of model organic acids and their sodium salts across a range of temperatures under hydrothermal conditions. By incorporating dissolved salts and mineral phases into laboratory experiments, my work aims to better replicate natural systems and determine how these components influence the reactivity and stability of organic acids. 
+This project is part of a broader effort to understand how organic molecules behave in water. A lot of organic chemical reactions occur on the Earth or within a cell *in water*. Therefore, our research lab uses water as the solvent, instead of more traditional organic solvents, in our experiments. Specifically, I investigate the decomposition of model organic acids and their sodium salts across a range of temperatures under hydrothermal conditions. By incorporating dissolved salts and mineral phases into laboratory experiments, my work aims to better replicate natural systems and determine how these components influence the reactivity and stability of organic acids. 
 
 ## Thermodynamic properties of aqueous aromatic acids and their metal complexes across temperature and pressure
 
