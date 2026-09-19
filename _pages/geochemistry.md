@@ -29,15 +29,15 @@ classes: wide
 
     </div>
 
-</div>
 
-<div class="research-subcard">
+    <div class="research-subcard">
 
-    <h3>Related Publications &amp; Presentations</h3>
+        <h3>Related Publications &amp; Presentations</h3>
 
-    <ul>
-        <li>Brown, E., et al. (In Preparation).</li>
-    </ul>
+        <ul>
+            <li>Brown, E., et al. (In Preparation).</li>
+        </ul>
+     </div>
 
 </div>
 
