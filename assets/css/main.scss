@@ -126,6 +126,15 @@ a:hover {
   max-width: 950px;
 }
 
+.wide .page__inner-wrap {
+    max-width: 1400px;
+}
+
+.wide .page__content {
+    width: 100%;
+    max-width: none;
+}
+
 .author__content,
 .author__urls-wrapper,
 .author__urls {
