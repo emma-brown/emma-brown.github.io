@@ -1,26 +1,6 @@
 ---
-<div class="profile-layout">
-
-<div class="profile-card">
-
-<img src="/assets/images/bio-photo.jpg" class="profile-photo" alt="Emma Brown">
-
-<h2>Emma Brown</h2>
-
-<p class="profile-title">
-PhD Candidate
-</p>
-
-<p class="profile-links">
-<a href="https://github.com/YOURUSERNAME">GitHub</a><br>
-<a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
-</p>
-
-</div>
-
-<div class="profile-text">
 layout: single
-author_profile: false
+author_profile: true
 title: "About"
 ---
 I am a PhD Candidate at Arizona State University studying the geochemistry of Earth and other planetary bodies. In my free time, you can find me outdoors.
@@ -38,6 +18,3 @@ I earned my Bachelor's of Science in Earth & Atmospheric Sciences from the Georg
 
 ## CONTACT
 email@gmail.com
-
-</div>
-</div>
