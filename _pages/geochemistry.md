@@ -10,17 +10,6 @@ classes: wide
 
 <div class="research-card">
 
-    <div class="research-image">
-
-        <img src="/assets/images/reactor.jpg"
-             alt="Hydrothermal reactor">
-
-        <div class="figure-caption">
-            Figure 1. Hydrothermal reactor used for decomposition experiments.
-        </div>
-
-    </div>
-
     <div class="research-text">
 
         <h2>Hydrothermal Decomposition of Model Organic Acids</h2>
