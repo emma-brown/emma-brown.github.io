@@ -285,15 +285,11 @@ a:hover {
 .research-subcard {
 
     background: #6B2E3D;   /* Merlot */
-
     color: #F8F5EE;
-
     border-radius: 18px;
-
     padding: 1.5rem;
-
+    flex: 0 0 100%;
     margin-top: 2rem;
-
     box-shadow: 0 6px 18px rgba(0,0,0,.12);
 
 }
@@ -331,3 +327,4 @@ a:hover {
     color: white;
 
 }
+
