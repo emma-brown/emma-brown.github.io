@@ -1,7 +1,24 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+<div class="profile-layout">
+
+<div class="profile-card">
+
+<img src="/assets/images/bio-photo.jpg" class="profile-photo" alt="Emma Brown">
+
+<h2>Emma Brown</h2>
+
+<p class="profile-title">
+PhD Candidate
+</p>
+
+<p class="profile-links">
+<a href="https://github.com/YOURUSERNAME">GitHub</a><br>
+<a href="https://linkedin.com/in/YOURPROFILE">LinkedIn</a>
+</p>
+
+</div>
+
+<div class="profile-text">
 layout: single
 author_profile: false
 title: "About"
@@ -21,3 +38,6 @@ I earned my Bachelor's of Science in Earth & Atmospheric Sciences from the Georg
 
 ## CONTACT
 email@gmail.com
+
+</div>
+</div>
