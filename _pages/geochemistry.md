@@ -35,10 +35,16 @@ classes: wide
         <h3>Related Publications &amp; Presentations</h3>
 
         <ul>
-            <li>Brown, E., et al. (In Preparation).</li>
+            <li>Brown, E. K., Gould, I., Hartnett, H., Shock, E. (2026) Looks Like Lunch: Persistence of Organic Acids in Salty Solutions, AbGradCon, Tucson, AZ, September 15th</li>
+        </ul>
+        <ul>
+            <li>Brown, E. K., Gould, I., Hartnett, H., Shock, E. (2026) What does organic chemistry look like on ocean worlds in the absence of life? ASU SESE Department Colloquium, January 14th</li>
         </ul>
         <ul>
             <li>Brown, E. K., Gould, I., Hartnett, H., Shock, E., (2026) Salty Solutions: Hydrothermal Organic Decomposition Promotes Mineral Formation in Ocean World Conditions AbSciCon, Madison, WI</li>
+        </ul>
+        <ul>
+            <li>Brown, E., et al. (In Preparation).</li>
         </ul>
      </div>
 
