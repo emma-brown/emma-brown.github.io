@@ -2,7 +2,7 @@
 title: "Geochemistry research"
 layout: single
 permalink: /geochemistry/
-author_profile: true
+author_profile: false
 ---
 # *Under construction* 
 
