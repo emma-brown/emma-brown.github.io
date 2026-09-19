@@ -3,6 +3,7 @@ title: "Geochemistry research"
 layout: single
 permalink: /geochemistry/
 author_profile: false
+classes: wide
 ---
 # *Under construction* 
 
