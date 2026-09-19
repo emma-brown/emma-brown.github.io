@@ -175,28 +175,53 @@ a:hover {
 .author__name,
 .author__name a {
     font-family: "Cormorant Infant", serif;
-    font-size: 2.6rem;
+    font-size: 1.6rem;
     font-weight: 600;
 }
 
-/* Research cards */
+/* Research card layout */
 
 .research-card {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+
     background: #DDD2F5;
     border-left: 8px solid #0D5D58;
     border-radius: 24px;
-    padding: 1.5rem;
+    padding: 2rem;
     margin: 2rem 0;
-    color: #222222;
     box-shadow: 0 6px 20px rgba(0,0,0,.08);
 }
 
-.research-card h2 {
-    color: #0D5D58;
-    margin-top: 0;
+.research-image {
+    flex: 0 0 260px;
 }
 
-.research-card p:last-child {
-    margin-bottom: 0;
+.research-image img {
+    width: 100%;
+    border-radius: 12px;
+}
+
+.figure-caption {
+    margin-top: .6rem;
+    font-size: .9rem;
+    font-style: italic;
+    color: #555;
+    line-height: 1.4;
+}
+
+.research-text {
+    flex: 1;
+}
+
+.research-text h2 {
+    margin-top: 0;
+    color: #0D5D58;
+}
+
+.research-text p,
+.research-text li {
+    color: #222;
 }
 
