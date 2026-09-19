@@ -76,8 +76,16 @@ a:hover {
 
 .sidebar {
     background: #E6E0FF;
-    border-radius: 20px;
-    padding: 1.5rem;
+
+    width: 360px;
+
+    margin-left: -140px;
+    padding-left: 140px;
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    border-radius: 0 32px 32px 0;
 }
 
 .author__avatar img {
