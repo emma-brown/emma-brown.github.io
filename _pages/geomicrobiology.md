@@ -12,19 +12,10 @@ classes: wide
 
     <div class="research-text">
 
-        <h2>Hydrothermal Decomposition of Model Organic Acids</h2>
+        <h2>Heterotrophic inorganic carbon fixation in different culture conditions</h2>
 
         <p>
-        This project is part of a broader effort to understand how organic
-        molecules behave in water. A lot of organic chemical reactions occur on
-        the Earth or within a cell <em>in water</em>. Therefore, our research
-        lab uses water as the solvent instead of more traditional organic
-        solvents in our experiments. Specifically, I investigate the
-        decomposition of model organic acids and their sodium salts across a
-        range of temperatures under hydrothermal conditions. By incorporating
-        dissolved salts and mineral phases into laboratory experiments, my work
-        aims to better replicate natural systems and determine how these
-        components influence the reactivity and stability of organic acids.
+        Heterotrophic microorganisms are abundant across ecosystems and play a central role in environmental carbon cycling by storing, transforming, and decomposing organic matter. However, heterotrophs can also incorporate inorganic carbon into biomass, but this is rarely considered in models of the carbon cycle. Our experiments on heterotrophic bacteria from soil (Pseudomonas putida) and marine environments (Pseudoalteromonas carrageenovora) show that inorganic carbon uptake is impacted by both resource availability and temperature and may be undetectable without stable isotope probing. By integrating single-cell techniques, our study measures variation in inorganic carbon uptake among individual cells across growth phases and conditions. Our study highlights heterotrophic inorganic carbon fixation as a variable source of 13C-dissolved inorganic carbon incorporation into microbial biomass, underscoring the importance of considering this process in the design and interpretation of environmental stable isotope probing studies.
         </p>
 
     </div>
