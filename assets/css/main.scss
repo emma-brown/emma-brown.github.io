@@ -4,3 +4,107 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+/* ===========================
+   Emma Brown Theme
+   =========================== */
+
+:root {
+
+  /* Main colors */
+
+  --teal: #0D5D58;
+  --teal-dark: #084843;
+
+  --lavender: #ECE8FF;
+  --lavender-dark: #DDD6FF;
+
+  --coral: #D34A32;
+
+  --background: #FAFAF7;
+  --text: #2D2D2D;
+
+}
+
+/* Background */
+
+body {
+  background: var(--background);
+  color: var(--text);
+}
+
+/* Navigation */
+
+.masthead {
+  background: white;
+  border-bottom: 4px solid var(--teal);
+}
+
+.greedy-nav a {
+  color: var(--teal);
+  font-weight: 600;
+}
+
+.greedy-nav a:hover {
+  color: var(--coral);
+}
+
+/* Page titles */
+
+.page__title {
+  color: var(--teal);
+}
+
+/* Headings */
+
+h1, h2, h3, h4 {
+  color: var(--teal);
+}
+
+/* Links */
+
+a {
+  color: var(--coral);
+}
+
+a:hover {
+  color: var(--teal);
+}
+
+/* Sidebar */
+
+.sidebar {
+  background: white;
+}
+
+.author__avatar img {
+  border-radius: 20px;
+  border: 4px solid var(--lavender);
+}
+
+/* Buttons */
+
+.btn {
+  background: var(--coral);
+  border-radius: 12px;
+}
+
+.btn:hover {
+  background: var(--teal);
+}
+
+/* Research boxes */
+
+.notice,
+.archive__item {
+  background: var(--lavender);
+  border-radius: 16px;
+  border: none;
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+}
+
+/* Footer */
+
+.page__footer {
+  background: var(--teal);
+}
