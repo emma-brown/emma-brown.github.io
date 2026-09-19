@@ -23,7 +23,7 @@
 
   --background: #FAFAF7;
   --text: #F2EEFF;
-  --headers: #222222;
+  --headers: #3B2F2A;
 
 }
 
@@ -53,7 +53,7 @@ body {
 /* Page titles */
 
 .page__title {
-  color: var(--teal);
+    color: #3B2F2A;
 }
 
 /* Headings */
@@ -82,7 +82,7 @@ a:hover {
     margin-left: -140px;
     padding-left: 140px;
 
-    padding-top: 2rem;
+    padding-top: 4rem;
     padding-bottom: 2rem;
 
     border-radius: 0 32px 32px 0;
