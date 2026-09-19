@@ -93,21 +93,57 @@ a:hover {
     color: #181818;
 }
 
-.author__avatar {
-    position: relative;
-    margin-top: -80px;
-    margin-bottom: -20px;
-    z-index: 5;
+.profile-layout {
+    display: flex;
+    gap: 4rem;
+    align-items: flex-start;
 }
 
-.author__avatar img {
-    width: 180px;
-    height: 180px;
+.profile-card {
+    position: relative;
+
+    width: 320px;
+    flex-shrink: 0;
+
+    background: #6B2E3D; /* or lavender */
+
+    border-radius: 30px;
+
+    padding: 110px 2rem 2rem;
+
+    text-align: center;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,.12);
+}
+
+.profile-photo {
+    position: absolute;
+
+    top: -70px;
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    width: 170px;
+    height: 170px;
+
     border-radius: 50%;
+
     object-fit: cover;
+
     border: 6px solid #D6C9F2;
-    display: block;
-    margin: auto;
+}
+
+.profile-title {
+    margin-top: .5rem;
+}
+
+.profile-links {
+    margin-top: 2rem;
+}
+
+.profile-text {
+    flex: 1;
 }
 /* Buttons */
 
