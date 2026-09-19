@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Emma Brown"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate"
+  bio    : "Graduate researcher"
   links:
 #    - label: "Website"
   #    icon: "fas fa-fw fa-link"
