@@ -95,13 +95,13 @@ a:hover {
 .author__avatar {
     margin-top: 0;
     margin-bottom: 1rem;
-    margin-left: -10px;
+    margin-left: -100px;
 }
 
 /* Circular avatar */
 
 .author__avatar img {
-    width: 195px;
+    width: 215px;
     height: 195px;
 
     object-fit: cover;
@@ -175,6 +175,8 @@ a:hover {
 .author__name,
 .author__name a {
     font-family: "Cormorant Infant", serif;
+    font-size: 2.6rem;
+    font-weight: 600;
 }
 
 /* Research cards */
