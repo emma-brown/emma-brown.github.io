@@ -1,7 +1,7 @@
 ---
 title: "curriculumn vitae"
 layout: single
-permalink: /geochemistry/
+permalink: /cv/
 author_profile: true
 ---
 ### Under construction 
