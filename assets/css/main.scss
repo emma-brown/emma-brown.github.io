@@ -122,3 +122,32 @@ a:hover {
 .page__content {
   max-width: 950px;
 }
+
+.author__content,
+.author__urls-wrapper,
+.author__urls {
+
+    background: #ECE8FF;
+    border-radius: 20px;
+    padding: 1.2em;
+}
+
+/* Research cards */
+
+.research-card {
+    background: #ECE8FF;
+    border-left: 8px solid #0D5D58;
+    border-radius: 16px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 6px 20px rgba(0,0,0,.08);
+}
+
+.research-card h2 {
+    margin-top: 0;
+    color: #0D5D58;
+}
+
+.research-card p:last-child {
+    margin-bottom: 0;
+}
