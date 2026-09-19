@@ -92,59 +92,29 @@ a:hover {
 .sidebar * {
     color: #181818;
 }
-
-.profile-layout {
-    display: flex;
-    gap: 4rem;
-    align-items: flex-start;
-}
-
-.profile-card {
-    position: relative;
-
-    width: 320px;
-    flex-shrink: 0;
-
-    background: #6B2E3D; /* or lavender */
-
-    border-radius: 30px;
-
-    padding: 110px 2rem 2rem;
-
+.author__avatar {
     text-align: center;
-
-    box-shadow: 0 10px 30px rgba(0,0,0,.12);
+    margin-top: 0;
+    margin-bottom: 1rem;
 }
 
-.profile-photo {
-    position: absolute;
+/* Circular avatar */
 
-    top: -70px;
-    left: 50%;
-
-    transform: translateX(-50%);
-
-    width: 170px;
-    height: 170px;
-
-    border-radius: 50%;
+.author__avatar img {
+    width: 195px;
+    height: 195px;
 
     object-fit: cover;
 
+    border-radius: 50%;
+
     border: 6px solid #D6C9F2;
+
+    display: block;
+    margin: 0 auto;
 }
 
-.profile-title {
-    margin-top: .5rem;
-}
 
-.profile-links {
-    margin-top: 2rem;
-}
-
-.profile-text {
-    flex: 1;
-}
 /* Buttons */
 
 .btn {
