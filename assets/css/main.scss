@@ -51,8 +51,8 @@ body {
 }
 
 /* Page titles */
-
-.page__title {
+.page__title,
+.page__title a {
     color: #181818;
 }
 
@@ -107,9 +107,9 @@ a:hover {
     margin: 0 auto 1.5rem auto;
     margin-left: -50;
     margin-top: -130px;
-   
     position: relative;
-    z-index: 5;
+    transform: translateY(-60px);
+    z-index: 10;
 }
 /* Buttons */
 
