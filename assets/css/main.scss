@@ -93,23 +93,21 @@ a:hover {
     color: #181818;
 }
 
+.author__avatar {
+    position: relative;
+    margin-top: -80px;
+    margin-bottom: -20px;
+    z-index: 5;
+}
+
 .author__avatar img {
     width: 180px;
     height: 180px;
-
-    object-fit: cover;
-
     border-radius: 50%;
-
+    object-fit: cover;
     border: 6px solid #D6C9F2;
-
     display: block;
-    margin: 0 auto 1.5rem auto;
-    margin-left: -50;
-    margin-top: -130px;
-    position: relative;
-    transform: translateY(-60px);
-    z-index: 10;
+    margin: auto;
 }
 /* Buttons */
 
