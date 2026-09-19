@@ -33,12 +33,13 @@ classes: wide
 
 <div class="research-subcard">
 
-            <h3>Related Publications & Presentations</h3>
-            
-                <li>
-                Brown, E., et al. (In Preparation).
-                </li>
-     </div>
+    <h3>Related Publications &amp; Presentations</h3>
+
+    <ul>
+        <li>Brown, E., et al. (In Preparation).</li>
+    </ul>
+
+</div>
 
 <div class="research-card">
 
