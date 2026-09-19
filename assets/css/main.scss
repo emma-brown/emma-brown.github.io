@@ -23,7 +23,7 @@
 
   --background: #FAFAF7;
   --text: #F2EEFF;
-  --headers: #3B2F2A;
+  --headers: #181818;
 
 }
 
@@ -81,21 +81,30 @@ a:hover {
 
     margin-left: -140px;
     padding-left: 140px;
-
-    padding-top: 4rem;
+    margin-top: 5rem;
+    padding-top: 2rem;
     padding-bottom: 2rem;
 
     border-radius: 0 32px 32px 0;
+    box-shadow: 0 10px 30px rgba(0,0,0,.12);
 }
 
 .sidebar * {
-    color: #222222;
+    color: #181818;
 }
 
 .author__avatar img {
-    border-radius: 20px;
-    border: 5px solid #D6C9F2;
-    margin-bottom: 1rem;
+    width: 180px;
+    height: 180px;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+
+    border: 6px solid #D6C9F2;
+
+    display: block;
+    margin: 0 auto 1.5rem auto;
 }
 /* Buttons */
 
