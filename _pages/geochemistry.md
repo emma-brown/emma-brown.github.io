@@ -37,6 +37,9 @@ classes: wide
         <ul>
             <li>Brown, E., et al. (In Preparation).</li>
         </ul>
+        <ul>
+            <li>Brown, E. K., Gould, I., Hartnett, H., Shock, E., (2026) Salty Solutions: Hydrothermal Organic Decomposition Promotes Mineral Formation in Ocean World Conditions AbSciCon, Madison, WI</li>
+        </ul>
      </div>
 
 </div>
