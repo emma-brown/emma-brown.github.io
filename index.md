@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+excerpt: ""
 ---
 # ABOUT
 ### I am a PhD Candidate at Arizona State University studying the geochemistry of Earth and other planetary bodies. In my free time, you can find me trail running, camping, or reading. 
