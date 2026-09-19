@@ -22,7 +22,7 @@
   --coral: #D34A32;
 
   --background: #FAFAF7;
-  --text: #2D2D2D;
+  --text: #F2EEFF;
 
 }
 
@@ -135,7 +135,7 @@ a:hover {
 /* Research cards */
 
 .research-card {
-    background: #ECE8FF;
+    background: #DDD2F5;
     border-left: 8px solid #0D5D58;
     border-radius: 16px;
     padding: 1.5rem;
@@ -150,4 +150,10 @@ a:hover {
 
 .research-card p:last-child {
     margin-bottom: 0;
+}
+
+h2 {
+    background: #DDD2F5;
+    padding: 1rem;
+    border-radius: 18px 18px 0 0;
 }
