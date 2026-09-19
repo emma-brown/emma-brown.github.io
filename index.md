@@ -9,7 +9,7 @@ title: "About"
 I am a PhD Candidate at Arizona State University studying the geochemistry of Earth and other planetary bodies. In my free time, you can find me outdoors.
 
 ## RESEARCH INTERESTS
-### Including, but not limited to...
+*Including, but not limited to...*
 - hydrothermal organic chemistry
 - geomicrobiology
 - metal-organic complexes
