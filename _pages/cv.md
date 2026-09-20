@@ -13,8 +13,3 @@ classes: wide
     style="border:none;">
 </iframe>
 
-<p style="text-align:center; margin-top:1rem;">
-<a href="/assets/files/Emma_Brown_CV.pdf" target="_blank">
-Download PDF
-</a>
-</p>
