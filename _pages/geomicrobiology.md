@@ -12,7 +12,7 @@ classes: wide
 
     <div class="research-image">
 
-        <img src="/assets/images/Figure1_260705.tiff"
+        <img src="/assets/images/Figure1_260705.tif"
              alt="Overview of carbon metabolism">
 
         <div class="figure-caption">
