@@ -6,8 +6,6 @@ author_profile: false
 classes: wide
 ---
 
-### *Under construction*
-
 <div class="research-card">
 
     <div class="research-image">
