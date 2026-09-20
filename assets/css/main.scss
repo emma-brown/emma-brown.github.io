@@ -337,29 +337,21 @@ a:hover {
    ===================================== */
 
 .research-figure {
-
     background: #F6F4EC;
     border-radius: 20px;
-    padding: 1.5rem;
+    overflow: hidden;
     margin: 2rem 0;
-    text-align: center;
     box-shadow: 0 8px 24px rgba(0,0,0,.10);
-
 }
 
 .research-figure img {
-    width: 100%;
-    max-width: 800px;
-    border-radius: 12px;
-
+    width: calc(100% + 3rem);
+    margin-left: -1.5rem;
 }
-
-.research-figure .figure-caption {
-
-    margin-top: 1rem;
-    font-size: 0.95rem;
+.figure-caption {
+    padding: 1.2rem 1.5rem;
+    font-size: .95rem;
     color: #555;
     line-height: 1.5;
-    text-align: left;
 
 }
