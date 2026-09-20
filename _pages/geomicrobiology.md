@@ -10,34 +10,88 @@ classes: wide
 
 <div class="research-card">
 
+    <div class="research-image">
+
+        <img src="/assets/images/Figure1_260705.tiff"
+             alt="Overview of carbon metabolism">
+
+        <div class="figure-caption">
+            Overview of carbon flux through central carbon metabolic pathways. The anaplerotic node, known as a switching point between anabolism and catabolism, hosts key carboxylating enzymes, pyruvate carboxylase (PC) and phosphoenolpyruvate carboxylase (PEPC), in addition to the malic enzyme (ME) and phosphoenolpyruvate carboxykinase (PEPCK).
+        </div>
+
+    </div>
+
     <div class="research-text">
 
-        <h2>Heterotrophic inorganic carbon fixation across different culture conditions</h2>
+        <h2>Heterotrophic Inorganic Carbon Fixation Across Different Culture Conditions</h2>
 
         <p>
-        Heterotrophic microorganisms are abundant on Earth and play a central role in environmental carbon cycling by storing, transforming, and decomposing organic matter. Less considered, however, is the ability of heterotrophs to incorporate inorganic carbon into biomass through heterotrophic inorganic carbon fixation (HICF). To better understand how environmental parameters like temperature and organic carbon availability affects HICF, we conducted experiments with soil (Pseudomonas putida) and marine (Pseudoalteromonas carrageenovora) bacteria across different culture conditions. We performed bulk and single-cell stable carbon isotope probing (SIP) analysis to quantify HICF in the cultures, and assessed other measures of metabolic state, including C/N ratio, natural abundance nitrogen isotope ratios, and cell size. Our findings contribute to the notion that HICF is ubiquitous and the magnitude is susceptible to environmental parameters like temperature and organic carbon availability. Consequently, this process should be considered in the design and interpretation of environmental stable isotope probing studies.
+        Heterotrophic microorganisms are abundant on Earth and play a central role in
+        environmental carbon cycling by storing, transforming, and decomposing organic
+        matter. Less appreciated, however, is their ability to incorporate inorganic
+        carbon into biomass through heterotrophic inorganic carbon fixation (HICF).
+        </p>
+
+        <p>
+        To better understand how environmental parameters such as temperature and
+        organic carbon availability influence HICF, we conducted experiments with
+        soil (<em>Pseudomonas putida</em>) and marine
+        (<em>Pseudoalteromonas carrageenovora</em>) bacteria across multiple culture
+        conditions. We quantified HICF using both bulk and single-cell stable carbon
+        isotope probing (SIP) and measured complementary indicators of metabolic
+        state, including C/N ratios, natural abundance nitrogen isotope compositions,
+        and cell size.
+        </p>
+
+        <p>
+        Our findings support the growing recognition that HICF is widespread and that
+        its magnitude is strongly influenced by environmental conditions, particularly
+        temperature and organic carbon availability. These results improve our
+        understanding of microbial carbon cycling and provide important context for
+        designing and interpreting environmental stable isotope probing studies.
         </p>
 
     </div>
-    
-    <div class="research-subcard">
 
-        <h3>Skills & Techniques</h3>
+</div>
 
-        <ul>
-            <li>Elemental Analysis Isotope Ratio Mass Spectrometry (EA-IRMS); Spectrophotometry; Stable Isotope Probing; Fluorescent microscopy; Cell counts, Wet lab (maintaining cultures, growth curves, cell pellet preparation, etc.</li>
-        </ul>
-     </div>
-    <div class="research-subcard">
-        <h3>Related Publications &amp; Presentations</h3>
+<div class="research-subcard">
 
-        <ul>
-            <li>Brown, E. K., Pulliam, K. P., Harris, C., Weeks, K., Leavitt, W., Saunders, J., Trembath-Reichert, E. (2026) Heterotrophic inorganic carbon fixation by two common Gammaproteobacteria varies in response to temperature and resource availability. Applied and Environmental Microbiology</li>
-        </ul>
-        <ul>
-            <li>Brown, E. K., Pulliam, K. P., Trembath-Reichert, E. (2025) Microbial response to environmental conditions: heterotrophic inorganic carbon fixation and morphological alterations. Arizona-Nevada Branch of ASM’s Annual Conference, Flagstaff, AZ, April 26th</li>
-        </ul>
-     </div>
+    <h3>Skills &amp; Techniques</h3>
 
+    <ul>
+        <li>Elemental Analysis Isotope Ratio Mass Spectrometry (EA-IRMS)</li>
+        <li>Stable carbon isotope probing (bulk and single-cell SIP)</li>
+        <li>Spectrophotometry</li>
+        <li>Fluorescence microscopy</li>
+        <li>Cell counting and growth curve analysis</li>
+        <li>Microbial culture maintenance and wet-lab techniques</li>
+        <li>Cell pellet preparation</li>
+    </ul>
+
+</div>
+
+<div class="research-subcard">
+
+    <h3>Related Publications &amp; Presentations</h3>
+
+    <ul>
+        <li>
+            Brown, E. K., Pulliam, K. P., Harris, C., Weeks, K., Leavitt, W.,
+            Saunders, J., Trembath-Reichert, E. (2026).
+            <em>Heterotrophic inorganic carbon fixation by two common
+            Gammaproteobacteria varies in response to temperature and resource
+            availability.</em>
+            Applied and Environmental Microbiology.
+        </li>
+
+        <li>
+            Brown, E. K., Pulliam, K. P., Trembath-Reichert, E. (2025).
+            <em>Microbial response to environmental conditions: heterotrophic
+            inorganic carbon fixation and morphological alterations.</em>
+            Arizona–Nevada Branch of ASM Annual Conference,
+            Flagstaff, Arizona.
+        </li>
+    </ul>
 
 </div>
