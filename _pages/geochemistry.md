@@ -105,7 +105,7 @@ classes: wide
     </div>
 </div>
 
-<div class="research-card">
+<div class="research-card-trans">
 
     <div class="research-subcard half">
 
