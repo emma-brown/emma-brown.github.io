@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: "About"
 ---
-I am a PhD Candidate at Arizona State University studying the geochemistry of Earth and other planetary bodies. In my free time, you can find me outdoors.
+I am a PhD Candidate at Arizona State University studying the geochemistry of Earth and other planetary bodies. In my free time, you can find me outdoors running, backpacking, or reading.
 
 ## RESEARCH INTERESTS
 *Including, but not limited to...*
