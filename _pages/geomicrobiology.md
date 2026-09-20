@@ -56,7 +56,7 @@ classes: wide
 </div>
 <div class="research-figure">
 
-    <img src="/assets/images/Pputida_SYBR_Image.png"
+    <img src="/assets/images/Pputida_SYBR_Image copy.png"
          alt="Stable isotope probing workflow">
 
     <div class="figure-caption">
