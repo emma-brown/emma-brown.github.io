@@ -101,19 +101,13 @@ a:hover {
 /* Circular avatar */
 
 .author__avatar img {
-    width: 215px;
-    height: 195px;
 
+    width: 280px;
+    height: 280px;
     object-fit: cover;
-
+    object-position: center 20%;
     border-radius: 50%;
-
-    border: 6px solid #D6C9F2;
-
-    display: block;
-    margin: 0 auto;
 }
-
 
 /* Buttons */
 
