@@ -61,9 +61,7 @@ classes: wide
 
     <div class="figure-caption">
 
-        <strong>Figure 2.</strong>
-        Stable isotope probing workflow used to quantify heterotrophic
-        inorganic carbon fixation under different environmental conditions.
+        SYBR-stained P. putida cells under the microscope.
 
     </div>
 
