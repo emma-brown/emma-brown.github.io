@@ -351,6 +351,10 @@ a:hover {
 .research-image.half {
     flex: 0 0 56%;
 }
+.research-image.half img {
+    width: 100%;
+    height: auto;
+}
 
 /* ==========================
    Mobile layout
