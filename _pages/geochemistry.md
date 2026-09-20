@@ -103,12 +103,13 @@ classes: wide
         kilobars.
         </p>
     </div>
+</div>
 
-    <div class="research-card">
+<div class="research-card">
 
-        <div class="research-subcard half">
+    <div class="research-subcard half">
 
-            <h3>Skills &amp; Techniques</h3>
+        <h3>Skills &amp; Techniques</h3>
 
             <ul>
                 <li>Computational skills (Python / MATLAB)</li>
@@ -132,15 +133,15 @@ classes: wide
             </div>
 
         </div>
-    </div>
+</div>
     
-    <div class="research-subcard">
+<div class="research-subcard">
 
         <h3>Related Publications &amp; Presentations</h3>
 
         <ul>
          <li>Brown, E., et al. (<i>In Preparation</i>) Thermodynamic Properties of Aqueous Aromatic Compounds and their Metal Complexes.</li>
         </ul>
-     </div>
+
 
 </div>
