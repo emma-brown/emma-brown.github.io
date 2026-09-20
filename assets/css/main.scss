@@ -95,19 +95,19 @@ a:hover {
 .author__avatar {
     width: 240px;
     height: 240px;
-    margin: -10px auto 1rem auto;
     border-radius: 50%;
     overflow: hidden;
     border: 6px solid #D6C9F2;
-    box-sizing: border-box;
+    margin: auto;
 }
 
 .author__avatar img {
-    width: 100%;
-    height: 100%;
+
+    width: 100% !important;
+    height: 100% !important;
+    max-width: none !important;
     object-fit: cover;
-    border-radius: 0;
-    border: none;
+    object-position: center 20%;
     display: block;
 }
 
