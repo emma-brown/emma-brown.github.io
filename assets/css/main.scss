@@ -93,7 +93,7 @@ a:hover {
     color: #181818;
 }
 .author__avatar {
-    margin-top: 0;
+    margin-top: -10px;
     margin-bottom: 1rem;
     margin-left: -10px;
 }
@@ -102,8 +102,8 @@ a:hover {
 
 .author__avatar img {
 
-    width: 320px;
-    height: 320px;
+    width: 240px;
+    height: 240px;
     object-position: center 20%;
     border-radius: 50%;
     object-fit: cover;
