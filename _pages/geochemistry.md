@@ -87,5 +87,27 @@ classes: wide
         </p>
 
     </div>
+        <div class="research-subcard">
+
+    <h3>Skills &amp; Techniques</h3>
+
+    <ul>
+        <li>Computational skills (python / MATLAB)</li>
+        <li>Geochemical modeling in EQ3/6</li>
+        <li>Thermodynamics of natural systems</li>
+        <li>Thermodynamic properties of metal-organic complexes</li>
+        <li>Dataset compilation & organization</li>
+    </ul>
+
+    </div>
+    
+    <div class="research-subcard">
+
+        <h3>Related Publications &amp; Presentations</h3>
+
+        <ul>
+         <li>Brown, E., et al. (<i>In Preparation</i>) Thermodynamic Properties of Aqueous Aromatic Compounds and their Metal Complexes.</li>
+        </ul>
+     </div>
 
 </div>
