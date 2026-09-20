@@ -124,7 +124,10 @@ classes: wide
              alt="WORM LOGO">
 
         <div class="figure-caption">
-            Research Powered by the Water-Organic-Rock-Microbe (WORM) Portal
+            Research powered by the
+            <a href="https://worm-portal.asu.edu/" target="_blank" rel="noopener noreferrer">
+                Water–Organic–Rock–Microbe (WORM) Portal
+                </a>.
         </div>
 
     </div>
