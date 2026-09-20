@@ -1,7 +1,20 @@
 ---
-title: "curriculumn vitae"
+title: "Curriculum Vitae"
 layout: single
 permalink: /cv/
 author_profile: false
+classes: wide
 ---
-### Under construction 
+
+<iframe
+    src="/assets/files/CV_EKB_Sept2026.pdf"
+    width="100%"
+    height="1000px"
+    style="border:none;">
+</iframe>
+
+<p style="text-align:center; margin-top:1rem;">
+<a href="/assets/files/Emma_Brown_CV.pdf" target="_blank">
+Download PDF
+</a>
+</p>
