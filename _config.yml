@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Emma Brown"
-  avatar : "/assets/images/ASUprofilephoto copy.jpg"
+  avatar : "/assets/images/ASUprofilephoto.jpg"
   bio    : "Graduate researcher"
   links:
 #    - label: "Website"
