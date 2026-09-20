@@ -102,6 +102,7 @@ classes: wide
         their metal complexes in natural systems from 0–350 °C and 1–5
         kilobars.
         </p>
+    </div>
 
     <div class="research-card">
 
@@ -131,7 +132,7 @@ classes: wide
             </div>
 
         </div>
-
+    </div>
     
     <div class="research-subcard">
 
