@@ -103,20 +103,32 @@ classes: wide
         kilobars.
         </p>
 
+    <div class="research-card">
+
+    <div class="research-subcard half">
+
+        <h3>Skills &amp; Techniques</h3>
+
+        <ul>
+            <li>Computational skills (Python / MATLAB)</li>
+            <li>Geochemical modeling in EQ3/6</li>
+            <li>Thermodynamics of natural systems</li>
+            <li>Dataset compilation &amp; organization</li>
+        </ul>
+
     </div>
-        <div class="research-subcard">
 
-    <h3>Skills &amp; Techniques</h3>
+    <div class="research-image half">
 
-    <ul>
-        <li>Computational skills (python / MATLAB)</li>
-        <li>Geochemical modeling in EQ3/6</li>
-        <li>Thermodynamics of natural systems</li>
-        <li>Thermodynamic properties of metal-organic complexes</li>
-        <li>Dataset compilation & organization</li>
-    </ul>
+        <img src="/assets/images/WORMlogo.png"
+             alt="WORM LOGO">
+
+        <div class="figure-caption">
+            Research Powered by the Water-Organic-Rock-Microbe (WORM) Portal
+        </div>
 
     </div>
+
     
     <div class="research-subcard">
 
