@@ -383,5 +383,45 @@ a:hover {
     .research-subcard {
         margin-top: 1rem;
     }
+       /* Sidebar */
+
+    .sidebar {
+        width: 100%;
+        margin: 0;
+        padding: 1.5rem;
+        border-radius: 20px;
+    }
+
+    /* Circular profile image */
+
+    .author__avatar {
+        width: 180px;
+        height: 180px;
+
+        margin: 0 auto 1rem auto;
+
+        border-radius: 50%;
+        overflow: hidden;
+    }
+
+    .author__avatar img {
+        width: 100% !important;
+        height: 100% !important;
+
+        max-width: none !important;
+
+        object-fit: cover;
+        object-position: center 20%;
+
+        border-radius: 50%;
+        display: block;
+    }
+
+    /* Center author information */
+
+    .author__content,
+    .author__urls-wrapper {
+        text-align: center;
+    }
 
 }
