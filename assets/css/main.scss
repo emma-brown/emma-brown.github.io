@@ -201,6 +201,17 @@ a:hover {
     margin: 0.75rem 0;
     box-shadow: 0 8px 24px rgba(0,0,0,.12);
 }
+.research-card-trans {
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 1rem;
+    width: 100%;
+    max-width: none;
+    background: transparent;
+    margin: 0.75rem 0;
+}
 
 /* Left image column */
 
