@@ -12,10 +12,10 @@ classes: wide
 
     <div class="research-text">
 
-        <h2>Heterotrophic inorganic carbon fixation in different culture conditions</h2>
+        <h2>Heterotrophic inorganic carbon fixation across different culture conditions</h2>
 
         <p>
-        Heterotrophic microorganisms are abundant across ecosystems and play a central role in environmental carbon cycling by storing, transforming, and decomposing organic matter. However, heterotrophs can also incorporate inorganic carbon into biomass, but this is rarely considered in models of the carbon cycle. Our experiments on heterotrophic bacteria from soil (Pseudomonas putida) and marine environments (Pseudoalteromonas carrageenovora) show that inorganic carbon uptake is impacted by both resource availability and temperature and may be undetectable without stable isotope probing. By integrating single-cell techniques, our study measures variation in inorganic carbon uptake among individual cells across growth phases and conditions. Our study highlights heterotrophic inorganic carbon fixation as a variable source of 13C-dissolved inorganic carbon incorporation into microbial biomass, underscoring the importance of considering this process in the design and interpretation of environmental stable isotope probing studies.
+        Heterotrophic microorganisms are abundant on Earth and play a central role in environmental carbon cycling by storing, transforming, and decomposing organic matter. Less considered, however, is the ability of heterotrophs to incorporate inorganic carbon into biomass through heterotrophic inorganic carbon fixation (HICF). To better understand how environmental parameters like temperature and organic carbon availability affects HICF, we conducted experiments with soil (Pseudomonas putida) and marine (Pseudoalteromonas carrageenovora) bacteria across different culture conditions. We performed bulk and single-cell stable carbon isotope probing (SIP) analysis to quantify HICF in the cultures, and assessed other measures of metabolic state, including C/N ratio, natural abundance nitrogen isotope ratios, and cell size. Our findings contribute to the notion that HICF is ubiquitous and the magnitude is susceptible to environmental parameters like temperature and organic carbon availability. Consequently, this process should be considered in the design and interpretation of environmental stable isotope probing studies.
         </p>
 
     </div>
