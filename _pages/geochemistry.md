@@ -105,32 +105,32 @@ classes: wide
 
     <div class="research-card">
 
-    <div class="research-subcard half">
+        <div class="research-subcard half">
 
-        <h3>Skills &amp; Techniques</h3>
+            <h3>Skills &amp; Techniques</h3>
 
-        <ul>
-            <li>Computational skills (Python / MATLAB)</li>
-            <li>Geochemical modeling in EQ3/6</li>
-            <li>Thermodynamics of natural systems</li>
-            <li>Dataset compilation &amp; organization</li>
-        </ul>
+            <ul>
+                <li>Computational skills (Python / MATLAB)</li>
+                <li>Geochemical modeling in EQ3/6</li>
+                <li>Thermodynamics of natural systems</li>
+                <li>Dataset compilation &amp; organization</li>
+            </ul>
 
-    </div>
-
-    <div class="research-image half">
-
-        <img src="/assets/images/WORMlogo.png"
-             alt="WORM LOGO">
-
-        <div class="figure-caption">
-            Research powered by the
-            <a href="https://worm-portal.asu.edu/" target="_blank" rel="noopener noreferrer">
-                Water–Organic–Rock–Microbe (WORM) Portal
-                </a>.
         </div>
 
-    </div>
+        <div class="research-image half">
+
+            <img src="/assets/images/WORMlogo.png"
+                 alt="WORM LOGO">
+
+            <div class="figure-caption">
+                Research powered by the
+                <a href="https://worm-portal.asu.edu/" target="_blank" rel="noopener noreferrer">
+                    Water–Organic–Rock–Microbe (WORM) Portal
+                    </a>.
+            </div>
+
+        </div>
 
     
     <div class="research-subcard">
