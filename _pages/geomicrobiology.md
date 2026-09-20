@@ -23,7 +23,7 @@ classes: wide
 
     <div class="research-text">
 
-        <h2>Heterotrophic Inorganic Carbon Fixation Across Different Culture Conditions</h2>
+        <h2>Heterotrophic Inorganic Carbon Fixation by Gammaproteobacteria</h2>
 
         <p>
         Heterotrophic microorganisms are abundant on Earth and play a central role in
