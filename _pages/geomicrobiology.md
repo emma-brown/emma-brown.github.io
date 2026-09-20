@@ -44,10 +44,10 @@ classes: wide
         </p>
 
         <p>
-        Our findings support the growing recognition that HICF is widespread and that
-        its magnitude is strongly influenced by environmental conditions, particularly
+        Our findings support the growing notion that HICF is widespread and that
+        its magnitude is influenced by environmental conditions like
         temperature and organic carbon availability. These results improve our
-        understanding of microbial carbon cycling and provide important context for
+        understanding of microbial carbon cycling and provide context for
         designing and interpreting environmental stable isotope probing studies.
         </p>
 
@@ -77,7 +77,7 @@ classes: wide
         <li>Fluorescence microscopy</li>
         <li>Cell counting and growth curve analysis</li>
         <li>Microbial culture maintenance and wet-lab techniques</li>
-        <li>Cell pellet preparation</li>
+        <li>Mentoring students</li>
     </ul>
 
 </div>
