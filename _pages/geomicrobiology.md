@@ -54,7 +54,20 @@ classes: wide
     </div>
 
 </div>
+<div class="research-figure">
 
+    <img src="/assets/images/Pputida_SYBR_Image.png"
+         alt="Stable isotope probing workflow">
+
+    <div class="figure-caption">
+
+        <strong>Figure 2.</strong>
+        Stable isotope probing workflow used to quantify heterotrophic
+        inorganic carbon fixation under different environmental conditions.
+
+    </div>
+
+</div>
 <div class="research-subcard">
 
     <h3>Skills &amp; Techniques</h3>
