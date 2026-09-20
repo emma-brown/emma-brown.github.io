@@ -68,6 +68,19 @@ classes: wide
 
 </div>
 
+<div class="research-figure">
+
+    <img src="/assets/images/OverviewFig3.png"
+         alt="Overview of organic compounds in natural systems">
+
+    <div class="figure-caption">
+
+        Studying hydrothermal organic chemistry has implications for processes on Earth & other planetary bodies, like the ocean world moons of Saturn and Jupiter.
+
+    </div>
+
+</div>
+
 <div class="research-card">
 
     <div class="research-text">
