@@ -28,7 +28,21 @@ classes: wide
         </p>
 
     </div>
+    <div class="research-subcard">
 
+    <h3>Skills &amp; Techniques</h3>
+
+    <ul>
+        <li>Gas Chromatography - Flame Ionization Detector (GC-FID)</li>
+        <li>Gas Chromatography - Mass Spectrometer (GC-MS)</li>
+        <li>Fourier Transform Infrared Spectroscopy (FTIR-ATR)</li>
+        <li>Nuclear Magnetic Resonance (NMR)</li>
+        <li>Data processing, including MCR-ALS for FTIR-ATR data</li>
+        <li>Hydrothermal experimental set-ups, including pressurized systems</li>
+        <li>General chemistry lab skills</li>
+    </ul>
+
+    </div>
 
     <div class="research-subcard">
 
@@ -44,7 +58,7 @@ classes: wide
             <li>Brown, E. K., Gould, I., Hartnett, H., Shock, E., (2026) Salty Solutions: Hydrothermal Organic Decomposition Promotes Mineral Formation in Ocean World Conditions AbSciCon, Madison, WI</li>
         </ul>
         <ul>
-            <li>Brown, E., et al. (In Preparation).</li>
+            <li>Brown, E., et al. (<i>In Preparation</i>) Hydrothermal Decomposition of Phenylacetate in Salty Solutions: reaction kinetics and carbonate formation.</li>
         </ul>
      </div>
 
