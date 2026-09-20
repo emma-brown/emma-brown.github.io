@@ -10,6 +10,17 @@ classes: wide
 
 <div class="research-card">
 
+    <div class="research-image">
+
+        <img src="/assets/images/HOG_logo.png"
+             alt="HOG Lab Logo">
+
+        <div class="figure-caption">
+        The Hydrothermal Organic Geochemistry (HOG) Lab at Arizona State University. 
+        </div>
+
+    </div>
+
     <div class="research-text">
 
         <h2>Hydrothermal Decomposition of Model Organic Acids</h2>
