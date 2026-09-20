@@ -19,7 +19,18 @@ classes: wide
         </p>
 
     </div>
+    
+    <div class="research-subcard">
 
+        <h3>Skills & Techniques</h3>
+
+        <ul>
+            <li>Elemental Analysis Isotope Ratio Mass Spectrometry (EA-IRMS); Spectrophotometry; Stable Isotope Probing; Fluorescent microscopy; Cell counts, Wet lab (maintaining cultures, growth curves, cell pellet preparation, etc.</li>
+        </ul>
+        <ul>
+            <li>Brown, E. K., Pulliam, K. P., Trembath-Reichert, E. (2025) Microbial response to environmental conditions: heterotrophic inorganic carbon fixation and morphological alterations. Arizona-Nevada Branch of ASM’s Annual Conference, Flagstaff, AZ, April 26th</li>
+        </ul>
+     </div>
 
     <div class="research-subcard">
 
