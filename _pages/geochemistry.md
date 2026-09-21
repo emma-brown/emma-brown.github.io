@@ -33,7 +33,7 @@ classes: wide
 
     </div>
 </div>
-    <div class="research-subcard">
+<div class="research-subcard">
 
         <h3>Skills &amp; Techniques</h3>
 
