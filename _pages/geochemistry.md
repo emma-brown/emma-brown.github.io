@@ -32,6 +32,7 @@ classes: wide
         </p>
 
     </div>
+</div>
     <div class="research-subcard">
 
     <h3>Skills &amp; Techniques</h3>
@@ -47,8 +48,9 @@ classes: wide
     </ul>
 
     </div>
+</div>
 
-    <div class="research-subcard">
+<div class="research-subcard">
 
         <h3>Related Publications &amp; Presentations</h3>
 
