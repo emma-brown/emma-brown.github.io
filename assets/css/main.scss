@@ -188,15 +188,11 @@ a:hover {
     flex-wrap: wrap;
     align-items: flex-start;
     gap: 1rem;
-
     width: 100%;
     max-width: none;
-
     background: #F6F4EC;
-
     border-left: 8px solid #0D5D58;
     border-radius: 24px;
-
     padding: 2rem;
     margin: 0.75rem 0;
     box-shadow: 0 8px 24px rgba(0,0,0,.12);
@@ -218,16 +214,13 @@ a:hover {
 .research-image {
 
     flex: 0 0 400px;
-
 }
 
 .research-image img {
 
     width: 100%;
     height: auto;
-
     display: block;
-
     border-radius: 12px;
 
 }
@@ -238,7 +231,7 @@ a:hover {
     font-size: .9rem;
     font-style: italic;
     line-height: 1.5;
-    color: #555;
+    color: #181818;
 }
 
 /* Right text column */
@@ -301,14 +294,9 @@ a:hover {
 .research-subcard h3 {
 
     color: #F8F5EE;
-
     margin-top: 0;
-
     margin-bottom: .8rem;
-
     font-size: 1.25rem;
-   
-
 }
 
 .research-subcard p,
@@ -380,7 +368,7 @@ a:hover {
 
     padding: 0;
     margin: 0;
-    color: #555;
+    color: #181818;
     font-size: 1rem;
     line-height: 1.5;
     font-style: bold;
