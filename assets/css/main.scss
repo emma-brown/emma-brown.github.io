@@ -443,5 +443,39 @@ a:hover {
     .author__urls-wrapper {
         text-align: center;
     }
+      /* Stack the half-width row vertically */
+
+   .research-subcard.half,
+   .research-image.half {
+       flex: 0 0 100%;
+       width: 100%;
+   }
+
+   /* Center the logo */
+
+   .research-image.half {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+
+       margin-top: 1.5rem;
+   }
+
+   /* Smaller logo on phones */
+   
+   .research-image.half img {
+       max-width: 180px;
+       width: 100%;
+       height: auto;
+   }
+   
+   /* Caption underneath the logo */
+   
+   .research-image.half .figure-caption {
+       text-align: center;
+       margin-top: 1rem;
+       max-width: 280px;
+   }
 
 }
