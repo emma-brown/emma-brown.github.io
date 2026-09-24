@@ -23,7 +23,7 @@
 
   --background: #FAFAF7;
   --text: #F5F2E8;
-  --headers: #404449;
+  --headers: #181818;
 
 }
 
@@ -477,13 +477,20 @@ a:hover {
     .author__urls-wrapper {
         text-align: center;
     }
-    .author__urls {
-        display: block !important;
-    }
+   .author__urls-wrapper button {
+    display: none !important;
+   }
 
-    .author__urls-wrapper button {
-        display: none;
-    }
+   .author__urls-wrapper {
+    display: block !important;
+   }
+
+   .author__urls {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: static !important;
+   }
       /* Stack the half-width row vertically */
 
    .research-subcard.half,
