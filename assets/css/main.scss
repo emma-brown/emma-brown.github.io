@@ -23,7 +23,7 @@
 
   --background: #FAFAF7;
   --text: #F5F2E8;
-  --headers: #A77A46;
+  --headers: #3A3A3A;
 
 }
 
@@ -53,7 +53,7 @@ body {
 /* Page titles */
 .page__title,
 .page__title a {
-    color: #A77A46;
+    color: #3A3A3A;
 }
 
 /* Headings */
@@ -96,7 +96,7 @@ a:hover {
     font-style: italic;
     font-weight: 400;
     color: #2B2724; 
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     margin-top: 0;
 }
 .author__avatar {
@@ -107,6 +107,13 @@ a:hover {
     border: 6px solid #D6C9F2;
     margin: auto;
     margin-right: 1.5rem;
+}
+.author__content .author__name {
+    margin-bottom: 0.15rem;
+}
+
+.author__content .author__bio {
+    margin-top: 0;
 }
 
 .author__avatar img {
