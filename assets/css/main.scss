@@ -492,12 +492,26 @@ a:hover {
         text-align: center;
         margin: 2rem 0;
     }
-       .greedy-nav__toggle::after {
-        content: " Menu";
-        font-size: 0.95rem;
+
+    .greedy-nav__toggle {
+
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+
+        color: #D34A32;   /* your orange/coral */
+    }
+
+    .greedy-nav__toggle::before {
+
+        content: "Menu";
+
+        color: #D34A32;
+
+        font-size: 1rem;
         font-weight: 600;
-        margin-left: 0.5rem;
-        vertical-align: middle;
+
+        order: -1;
     }
 
 }
