@@ -373,7 +373,13 @@ a:hover {
     font-size: 1rem;
     line-height: 1.5;
     font-style: bold;
+
 }
+
+.mobile-cv {
+    display: none;
+}
+
 
 /* ==========================
    Mobile layout
@@ -477,5 +483,14 @@ a:hover {
        margin-top: 1rem;
        max-width: 280px;
    }
+       .desktop-cv {
+        display: none;
+    }
+
+    .mobile-cv {
+        display: block;
+        text-align: center;
+        margin: 2rem 0;
+    }
 
 }
