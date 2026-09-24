@@ -23,7 +23,7 @@
 
   --background: #FAFAF7;
   --text: #F5F2E8;
-  --headers: #864457;
+  --headers: #51575D;
 
 }
 
@@ -53,7 +53,7 @@ body {
 /* Page titles */
 .page__title,
 .page__title a {
-    color: #864457;
+    color: var(--headers);
 }
 
 /* Headings */
