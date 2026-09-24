@@ -16,8 +16,8 @@ classes: wide
 
 <div class="mobile-cv">
     <a class="btn"
-       href="/assets/files/Emma_Brown_CV.pdf"
+       href="/assets/files/CV_EKB_Sept2026.pdf"
        target="_blank">
-        📄 View Curriculum Vitae
+        📄 View CV
     </a>
 </div>
