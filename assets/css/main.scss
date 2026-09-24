@@ -105,9 +105,9 @@ a:hover {
 }
 .author__bio {
     font-style: italic;
-    font-weight: 400;
+    font-weight: 600;
     color: #2B2724; 
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     margin-top: 0;
 }
 .author__avatar {
@@ -502,10 +502,8 @@ a:hover {
        text-align: center;
        margin-top: 1rem;
    }
-   .author__urls-wrapper .btn {
-
-    color: #F8F5EE;
-
+   .author__urls-wrapper button {
+       color: #F8F5EE !important;
    }
    
    .author__urls {
