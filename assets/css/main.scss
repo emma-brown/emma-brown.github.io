@@ -90,7 +90,12 @@ a:hover {
 }
 
 .sidebar * {
-    color: #181818;
+    color: #2B2724;
+}
+.author__bio {
+    font-style: italic;
+    font-weight: 400;
+    color: #5A4338;   /* or whichever brown you settle on */
 }
 .author__avatar {
     width: 240px;
