@@ -23,7 +23,7 @@
 
   --background: #FAFAF7;
   --text: #F5F2E8;
-  --headers: #181818;
+  --headers: #5A4338;
 
 }
 
@@ -53,7 +53,7 @@ body {
 /* Page titles */
 .page__title,
 .page__title a {
-    color: #181818;
+    color: #5A4338;
 }
 
 /* Headings */
@@ -491,6 +491,13 @@ a:hover {
         display: block;
         text-align: center;
         margin: 2rem 0;
+    }
+       .greedy-nav__toggle::after {
+        content: " Menu";
+        font-size: 0.95rem;
+        font-weight: 600;
+        margin-left: 0.5rem;
+        vertical-align: middle;
     }
 
 }
