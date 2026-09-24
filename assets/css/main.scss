@@ -462,7 +462,15 @@ a:hover {
    /* Avatar */
    
    .author__avatar {
-       margin: 0 auto 1rem auto;
+       display: block !important;
+   
+       width: 180px !important;
+       height: 180px !important;
+   
+       margin: 0 auto 1rem auto !important;
+   
+       border-radius: 50%;
+       overflow: hidden;
    }
 
    .author__avatar img {
@@ -507,7 +515,12 @@ a:hover {
        border-bottom-color: #864457;
    }
 
-
+   .author__content,
+   .author__urls-wrapper {
+       display: block !important;
+       width: 100%;
+       text-align: center;
+   }
     /* ---------- Half-width research row ---------- */
 
     .research-subcard.half,
