@@ -440,98 +440,73 @@ a:hover {
     .research-subcard {
         margin-top: 1rem;
     }
+   /* ---------- Sidebar ---------- */
+   
+   .sidebar {
+       width: 100%;
+       margin: 0;
+       padding: 1.5rem;
+       border-radius: 20px;
+   }
+   
+   /* Keep author centered */
+   
+   .author {
+       text-align: center;
+   }
+   
+   .author__content {
+       text-align: center;
+   }
+   
+   /* Avatar */
+   
+   .author__avatar {
+       margin: 0 auto 1rem auto;
+   }
 
-    /* ---------- Sidebar ---------- */
+   .author__avatar img {
+       width: 180px !important;
+       height: 180px !important;
+   
+       object-fit: cover;
+       object-position: center 20%;
+   
+       border-radius: 50%;
+   
+       display: block;
+   }
+   
+   /* Name and bio spacing */
+   
+   .author__content .author__name {
+       margin-bottom: 0.15rem;
+   }
+   
+   .author__content .author__bio {
+       margin-top: 0;
+       margin-bottom: 0.75rem;
+   }
 
-    .sidebar {
-        width: 100%;
-        margin: 0;
-        padding: 1.5rem;
-        border-radius: 20px;
-    }
+/* Keep the dropdown, just restyle it */
 
-    /* Force the author widget into one column */
+   .author__urls-wrapper {
+       text-align: center;
+       margin-top: 1rem;
+   }
+   
+   .author__urls {
+       background: #864457;
+       border: none;
+       border-radius: 16px;
+   
+       box-shadow: 0 8px 20px rgba(0,0,0,.20);
+   }
+   
+   .author__urls::before {
+       border-bottom-color: #864457;
+   }
 
-    .author {
-        display: flex !important;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .author__avatar,
-    .author__content,
-    .author__urls-wrapper {
-        width: 100%;
-        text-align: center;
-    }
-
-    /* ---------- Circular avatar ---------- */
-
-    .author__avatar {
-        width: 180px !important;
-        height: 180px !important;
-
-        margin: 0 auto 1rem auto !important;
-
-        overflow: hidden;
-        border-radius: 50%;
-
-        flex: none;
-    }
-
-    .author__avatar img {
-
-        width: 180px !important;
-        height: 180px !important;
-
-        max-width: none !important;
-
-        object-fit: cover;
-        object-position: center 20%;
-
-        border-radius: 50%;
-
-        display: block;
-    }
-
-    /* ---------- Name / Bio ---------- */
-
-    .author__content .author__name {
-        margin-bottom: 0.15rem !important;
-    }
-
-    .author__content .author__bio {
-        margin-top: 0 !important;
-        margin-bottom: 0.75rem !important;
-    }
-
-    /* ---------- Links ---------- */
-
-    .author__urls-wrapper .btn {
-        display: none !important;
-    }
-
-    .author__urls {
-        display: flex !important;
-        flex-direction: column;
-        align-items: center;
-
-        gap: 0.75rem;
-
-        position: static !important;
-
-        background: transparent !important;
-        border: none !important;
-        box-shadow: none !important;
-
-        padding: 0 !important;
-        margin: 0 !important;
-    }
-
-    .author__urls::before,
-    .author__urls::after {
-        display: none !important;
-    }
 
     /* ---------- Half-width research row ---------- */
 
