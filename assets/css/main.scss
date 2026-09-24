@@ -502,7 +502,7 @@ a:hover {
        text-align: center;
        margin-top: 1rem;
    }
-   .author__urls-wrapper button {
+   .author__urls-wrapper .btn::before {
        color: #F8F5EE !important;
    }
    
