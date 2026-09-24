@@ -202,10 +202,19 @@ a:hover {
 .author__name a {
     font-family: "Cormorant Infant", serif;
     font-size: 1.6rem;
-    font-weight: 600;
+    font-weight: 900;
 }
 .author__content p {
     margin-bottom: 0.3rem;
+}
+.author__name {
+    line-height: 0.95;
+}
+
+.author__bio p {
+    margin-top: 0.25rem;
+    font-size: 1rem;
+    font-style: italic;
 }
 
 /* Research card layout */
