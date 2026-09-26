@@ -101,13 +101,16 @@ a:hover {
     box-shadow: 0 10px 30px rgba(0,0,0,.12);
 }
 
-   .sidebar,
-   .sidebar p,
-   .sidebar a,
-   .sidebar li,
-   .sidebar i {
-       color: #D6C9F2;
-   }
+.author__name,
+.author__name a {
+    color: #D6C9F2;
+}
+
+.author__bio,
+.author__urls a,
+.author__urls i {
+    color: #C4BADF;
+}
 .author__bio {
     font-style: italic;
     font-weight: 400;
