@@ -70,7 +70,7 @@ classes: wide
 
     <ul>
         <li>Elemental Analysis Isotope Ratio Mass Spectrometry (EA-IRMS)</li>
-        <li>Stable carbon isotope probing (bulk and single-cell SIP)</li>
+        <li>Stable isotope probing (bulk and single-cell SIP)</li>
         <li>Spectrophotometry</li>
         <li>Fluorescence microscopy</li>
         <li>Cell counting and growth curve analysis</li>
