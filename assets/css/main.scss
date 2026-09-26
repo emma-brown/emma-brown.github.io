@@ -103,12 +103,18 @@ a:hover {
 .author__name,
 .author__name a {
     color: #181818;
+    text-shadow:
+     0 -1px 1px rgba(255,255,255,0.10),
+     0 2px 6px rgba(0,0,0,0.22);
 }
 
 .author__bio,
 .author__urls a,
 .author__urls i {
     color: #181818;
+    text-shadow:
+     0 -1px 1px rgba(255,255,255,0.10),
+     0 2px 6px rgba(0,0,0,0.22);
 }
 .author__bio {
     font-style: italic;
