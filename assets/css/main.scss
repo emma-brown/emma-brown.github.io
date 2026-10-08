@@ -13,7 +13,7 @@
 
   /* Main colors */
 
-  --teal: #0D5D58;
+  --teal: #146A64;
   --teal-dark: #084843;
 
   --lavender: #ECE8FF;
@@ -199,7 +199,7 @@ a:hover {
     max-width: 1200px;
 }
 .page__content p {
-    font-weight: 500;
+    font-weight: 400;
 }
 .wide .page__inner-wrap {
     max-width: 1400px;
@@ -288,7 +288,7 @@ a:hover {
 .figure-caption {
     margin-top: .6rem;
     padding-top: .25rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-style: italic;
     font-weight: 600;
     line-height: 1.5;
@@ -431,9 +431,9 @@ a:hover {
     padding: 0;
     margin: 0;
     color: #181818;
-    font-size: 1rem;
+    font-size: 0.8rem;
     line-height: 1.5;
-    font-weight: 300;
+    font-weight: 350;
 
 }
 
