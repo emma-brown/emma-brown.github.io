@@ -30,15 +30,15 @@
 /* Background */
 
 body {
-  background: var(--teal-dark);
+  background: var(--teal);
   color: var(--text);
 }
 
 /* Navigation */
 
 .masthead {
-  background: white;
-  border-bottom: 4px solid var(--teal);
+  background: var(--teal-dark);
+  border-bottom: 4px solid var(--teal-dark);
 }
 
 .greedy-nav a {
