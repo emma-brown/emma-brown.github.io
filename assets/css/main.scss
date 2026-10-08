@@ -91,6 +91,11 @@ a:hover {
 
 .sidebar {
     background: #925264;
+    background: linear-gradient(
+        180deg,
+        #955768 0%,
+        #864457 100%
+    );
     overflow: visible;
     width: 360px;
     height: fit-content;
@@ -99,7 +104,6 @@ a:hover {
     margin-top: 4rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    filter: brightness(1.1);
     border-radius: 0 32px 32px 0;
     box-shadow: 0 10px 30px rgba(0,0,0,.12);
 }
