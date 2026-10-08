@@ -63,7 +63,7 @@ classes: wide
             <li>Brown, E. K., Gould, I., Hartnett, H., Shock, E., (2026) Salty Solutions: Hydrothermal Organic Decomposition Promotes Mineral Formation in Ocean World Conditions AbSciCon, Madison, WI</li>
         </ul>
         <ul>
-            <li>Brown, E., et al. (<i>In Preparation</i>) Hydrothermal Decomposition of Phenylacetate in Salty Solutions: reaction kinetics and carbonate formation.</li>
+            <li>Brown, E., et al. (<i>In Preparation</i>) The role of metal-organic complexation in the hydrothermal decomposition of phenylacetate: reaction kinetics and carbonate formation.</li>
         </ul>
  </div>
 
