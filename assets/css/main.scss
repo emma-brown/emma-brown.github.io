@@ -22,7 +22,7 @@
   --coral: #D34A32;
 
   --background: #FAFAF7;
-  --text: #F5F2E8;
+  --text: #F8F5EE;
   --headers: #181818;
 
 }
@@ -198,7 +198,9 @@ a:hover {
 .page__content {
     max-width: 1200px;
 }
-
+.page__content p {
+    font-weight: 500;
+}
 .wide .page__inner-wrap {
     max-width: 1400px;
 }
@@ -286,7 +288,7 @@ a:hover {
 .figure-caption {
     margin-top: .6rem;
     padding-top: .25rem;
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     font-style: italic;
     font-weight: 600;
     line-height: 1.5;
