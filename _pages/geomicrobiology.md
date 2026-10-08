@@ -14,6 +14,8 @@ classes: wide
              alt="Overview of carbon metabolism">
 
         <div class="figure-caption">
+        <p>
+        </p>
             Overview of carbon flux through central carbon metabolic pathways. The anaplerotic node, known as a switching point between anabolism and catabolism, hosts key carboxylating enzymes, pyruvate carboxylase (PC) and phosphoenolpyruvate carboxylase (PEPC), in addition to the malic enzyme (ME) and phosphoenolpyruvate carboxykinase (PEPCK).
         </div>
 
@@ -28,9 +30,6 @@ classes: wide
         environmental carbon cycling by storing, transforming, and decomposing organic
         matter. Less appreciated, however, is their ability to incorporate inorganic
         carbon into biomass through heterotrophic inorganic carbon fixation (HICF).
-        </p>
-
-        <p>
         To better understand how environmental parameters such as temperature and
         organic carbon availability influence HICF, we conducted experiments with
         soil (<em>Pseudomonas putida</em>) and marine
@@ -38,11 +37,7 @@ classes: wide
         conditions. We quantified HICF using both bulk and single-cell stable carbon
         isotope probing (SIP) and measured complementary indicators of metabolic
         state, including C/N ratios, natural abundance nitrogen isotope compositions,
-        and cell size.
-        </p>
-
-        <p>
-        Our findings support the growing notion that HICF is widespread and that
+        and cell size. Our findings support the growing notion that HICF is widespread and that
         its magnitude is influenced by environmental conditions like
         temperature and organic carbon availability. These results improve our
         understanding of microbial carbon cycling and provide context for
