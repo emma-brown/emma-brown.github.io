@@ -83,7 +83,7 @@ classes: wide
         <li>
             Brown, E. K., Pulliam, K. P., Harris, C., Weeks, K., Leavitt, W.,
             Saunders, J., Trembath-Reichert, E. (2026)
-            <em>Heterotrophic inorganic carbon fixation by two common
+            Heterotrophic inorganic carbon fixation by two common
             Gammaproteobacteria varies in response to temperature and resource
             availability. <em>Applied and Environmental Microbiology</em>, e00628-26.
         </li>
