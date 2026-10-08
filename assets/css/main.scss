@@ -41,6 +41,10 @@ body {
   border-bottom: 4px solid var(--teal-dark);
 }
 
+.greedy-nav {
+   background: #E8E2D4;
+}
+
 .greedy-nav a {
   color: var(--teal);
   font-weight: 600;
@@ -80,7 +84,7 @@ a {
 }
 
 a:hover {
-  color: var(--teal);
+  color: #E8E2D4;
 }
 
 /* Sidebar */
