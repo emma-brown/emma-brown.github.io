@@ -69,7 +69,7 @@ classes: wide
 
 <div class="research-figure">
 
-    <img src="/assets/images/OverviewFig3.png"
+    <img src="/assets/images/Overview_Carbon_Earth_Ocean_Worlds-01.png"
          alt="Overview of organic compounds in natural systems">
 
     <div class="figure-caption">
